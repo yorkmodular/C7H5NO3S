@@ -17,3 +17,5 @@ The graphic on a faceplate? That's a saccharine molecule, because why the hell n
 This is a 100% through-hole build and there are no wilfully weird components - potentiometer and capacitor values for the two high-pass filters are those that I use in pre-assembled modules but feel free to experiment. There's probably more mileage in fiddling with the capacitor values than with the range of the pot. Unless stated otherwise, all pots are linear taper.
 
 Red LEDs are recommended for the clipping diodes - the lower the forward voltage the better; I use LEDs with a 1.7V voltage drop
+
+Jumpers J1-J4 should have bridges attached across two of the pins - these will determine how the filter pots behave.
